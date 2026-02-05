@@ -53,7 +53,7 @@ export default function Home() {
                 </Link>
                 
                 <a
-                  href="https://github.com"
+                  href="https://github.com/Diogopbr/-Pulse-Real-Time-Activity-Analytics-Web-App"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="px-8 py-4 bg-surface border border-surface text-gray-300 rounded-lg font-semibold hover:border-info/30 transition-all"
